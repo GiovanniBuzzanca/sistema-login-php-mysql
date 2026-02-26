@@ -1,5 +1,7 @@
 Sistema di Autenticazione Full-Stack (PHP & MySQL)
+
 Questo progetto implementa un sistema completo di gestione utenti, inclusa la registrazione, l'autenticazione sicura e la protezione delle aree riservate. È stato sviluppato per dimostrare competenze fondamentali nel backend con PHP e nella gestione di database relazionali con MySQL.
+
 
 
 Funzionalità principali:
@@ -17,6 +19,7 @@ Area Riservata: Accesso limitato ai soli utenti autenticati con reindirizzamento
 Logout: Distruzione sicura della sessione e reindirizzamento alla pagina di accesso.
 
 
+
 Tech Stack
 
 Backend: PHP.
@@ -26,6 +29,7 @@ Database: MySQL (tramite estensione MySQLi).
 Frontend: HTML5 e CSS3.
 
 AI Tools: Utilizzati per l'ottimizzazione del codice, il debugging e la stesura della documentazione tecnica.
+
 
 
 Struttura del Progetto
@@ -45,6 +49,7 @@ area-privata.php: Pagina protetta accessibile solo post-login.
 logout.php: Logica per la chiusura della sessione.
 
 
+
 Installazione e Utilizzo
 
 Clona il repository nella cartella del tuo server locale (es. htdocs per XAMPP).
@@ -54,6 +59,7 @@ Importa il file database fornito (es. tutorial_mysql.sql) tramite phpMyAdmin.
 Assicurati che le credenziali in config1.php corrispondano alla tua configurazione locale.
 
 Avvia il server e naviga su index.php per iniziare.
+
 
 
 Licenza
